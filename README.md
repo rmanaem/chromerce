@@ -16,7 +16,7 @@ Start the Apache and MySQL modules from the XAMPP control panel and type `localh
 
 - Minimalistic design
 - Responsive CSS design using flexbox and gird
-- Authentication system connected to the MySQL database 
+- Authentication system connected to the MySQL database
 - Dynamic map implemented using JavaScript leaflet library
 - Dynamic product page connected to the MySQL database
 - Dynamic product review system connected to MySQL database
@@ -27,3 +27,7 @@ Start the Apache and MySQL modules from the XAMPP control panel and type `localh
 [LAMP Stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 
 [XAMPP](https://www.apachefriends.org/)
+
+## License
+
+This repository is licensed under the [MIT License](https://github.com/rmanaem/chromerce/blob/master/LICENSE).
