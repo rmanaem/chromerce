@@ -22,7 +22,7 @@ To run the website, you will need an Apache server. You can download XAMPP PHP d
 
 Place the cloned chromerce directory inside **htdocs** directory of XAMPP. You can locate the XAMPP directory by selecting the explorer from the XAMPP control panel.
 
-Lastly, run the website by starting the Apache and MySQL modules from the XAMPP control panel and you can the website at `localhost/chromerce/index.php`.
+Lastly, run the website by starting the Apache and MySQL modules from the XAMPP control panel and you can access the website at http://127.0.0.1/chromerce/index.php/.
 
 ## License
 
