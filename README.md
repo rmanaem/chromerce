@@ -1,5 +1,7 @@
 # Chromerce
 
+<p alt="logo" align="center"><a href="https://github.com/rmanaem/chromerce/blob/master/imgages/logo.png"><img src="https://github.com/rmanaem/chromerce/blob/master/images/logo.png?raw=true" width=200/></a></p>
+
 Chromerce is an e-commerce website developed using LAMP stack.
 
 ## Features
