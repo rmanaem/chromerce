@@ -22,12 +22,6 @@ Start the Apache and MySQL modules from the XAMPP control panel and type `localh
 - Dynamic product review system connected to MySQL database
 - Dynamic userprofile with wishlist and order history
 
-## References
-
-[LAMP Stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
-
-[XAMPP](https://www.apachefriends.org/)
-
 ## License
 
 This repository is licensed under the [MIT License](https://github.com/rmanaem/chromerce/blob/master/LICENSE).
