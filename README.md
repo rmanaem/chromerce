@@ -1,18 +1,10 @@
 # Chromerce
 
-Chromerce is a simple e-commerce website developed using LAMP stack.
+Chromerce is an e-commerce website developed using LAMP stack.
 
-The website is currently live [here](https://chromerce.great-site.net/).
+## Features
 
-# Installation
-
-In order to run the website you will need an Apache server. You can download XAMPP, PHP development environment [here](https://www.apachefriends.org/).
-
-Place the cloned chromerce directory inside **htdocs** directory of XAMPP. You can locate the XAMPP directory by selecting the explorer from the XAMPP control panel.
-
-Start the Apache and MySQL modules from the XAMPP control panel and type `localhost/chromerce/index.php` in your browser.
-
-# Features
+Chromerce offers the following features:
 
 - Minimalistic design
 - Responsive CSS design using flexbox and gird
@@ -22,6 +14,14 @@ Start the Apache and MySQL modules from the XAMPP control panel and type `localh
 - Dynamic product review system connected to MySQL database
 - Dynamic userprofile with wishlist and order history
 
+## Local Setup
+
+To run the website, you will need an Apache server. You can download XAMPP PHP development environment [here](https://www.apachefriends.org/).
+
+Place the cloned chromerce directory inside **htdocs** directory of XAMPP. You can locate the XAMPP directory by selecting the explorer from the XAMPP control panel.
+
+Lastly, run the website by starting the Apache and MySQL modules from the XAMPP control panel and you can the website at `localhost/chromerce/index.php`.
+
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/rmanaem/chromerce/blob/master/LICENSE).
+Chromerce is licensed under the [MIT License](LICENSE).
