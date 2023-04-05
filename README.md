@@ -26,4 +26,4 @@ Lastly, run the website by starting the Apache and MySQL modules from the XAMPP 
 
 ## License
 
-Chromerce is licensed under the [MIT License](LICENSE).
+Chromerce is licensed under the terms of [MIT License](LICENSE).
